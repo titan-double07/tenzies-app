@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/titanwarlord007/tenzies-app/static/css/main.39710276.css",
-    "main.js": "/titanwarlord007/tenzies-app/static/js/main.ce53eddb.js",
-    "index.html": "/titanwarlord007/tenzies-app/index.html",
-    "main.39710276.css.map": "/titanwarlord007/tenzies-app/static/css/main.39710276.css.map",
-    "main.ce53eddb.js.map": "/titanwarlord007/tenzies-app/static/js/main.ce53eddb.js.map"
+    "main.css": "/titanwarlord007/static/css/main.39710276.css",
+    "main.js": "/titanwarlord007/static/js/main.ce53eddb.js",
+    "index.html": "/titanwarlord007/index.html",
+    "main.39710276.css.map": "/titanwarlord007/static/css/main.39710276.css.map",
+    "main.ce53eddb.js.map": "/titanwarlord007/static/js/main.ce53eddb.js.map"
   },
   "entrypoints": [
     "static/css/main.39710276.css",
